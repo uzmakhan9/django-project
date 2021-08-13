@@ -1,1 +1,1 @@
-web: gunicorn app:HomeConfig
+web: gunicorn app:wsgi
