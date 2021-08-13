@@ -1,1 +1,1 @@
-web: gunicorn hello.hello.wsgi
+web: gunicorn app:hello.wsgi
